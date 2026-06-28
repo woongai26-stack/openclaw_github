@@ -1,0 +1,20 @@
+# 시스템 및 임시 파일
+.DS_Store
+*.log
+*.lock
+*~
+
+# 세션 기록, 자격 증명, 설정 파일 등 민감 정보가 담길 수 있는 모든 것
+# workspace 폴더 바깥을 가리키는 경로지만, 안전을 위해 추가합니다.
+/../sessions/
+/../credentials/
+/../config.json
+/../secrets.json
+
+# Node.js, Python 등 개발 관련 폴더
+node_modules/
+__pycache__/
+*.pyc
+
+# 환경변수 파일
+.env*

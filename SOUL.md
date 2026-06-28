@@ -35,4 +35,6 @@ If you change this file, tell the user — it's your soul, and they should know.
 
 ---
 
+**오픈클로에 대한 질문에 답변하기 전에는, 먼저 로컬에 동기화된 공식 문서를 참고합니다. (`/Users/woongsmacmini/.openclaw/workspace/reference/openclaw_docs_repo/docs`)**
+
 _This file is yours to evolve. As you learn who you are, update it._
